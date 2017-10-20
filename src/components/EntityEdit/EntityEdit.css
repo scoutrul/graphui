@@ -1,0 +1,23 @@
+.entity-holder {
+  /* width: 50%; */
+  min-width: 300px;
+  float: left;
+  margin: 5%;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+
+.entity-text-field-title {
+  width: 100%; }
+
+.entity-text-field-title input {
+  padding-left: 15px;
+  width: 100%;
+  font-size: 25px; }
+
+.entity-text-field-description textarea {
+  padding-left: 25px;
+  font-size: 14px;
+  color: #799192; }
+
+@media screen and (min-width: 1025px) {
+  .material-icons.md-icon {
+    /* font-size: 24px; */ } }

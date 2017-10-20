@@ -1,0 +1,7 @@
+.md-snackbar {
+  /* top:0;
+    bottom: auto; */
+  background: #D50000; }
+
+.md-snackbar-container {
+  z-index: 1000; }
