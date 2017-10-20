@@ -35,6 +35,7 @@
         "no-eq-null": 2,
         "no-eval": 2,
         "curly": 2,
-        "no-else-return": 1
+        "no-else-return": 1,
+        "no-mixed-spaces-and-tabs": "off"
     }
 }
