@@ -8,6 +8,7 @@
     "d3": "^4.11.0",
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.0.2",
+    "prop-types": "^15.6.0",
     "react": "^15.6.1",
     "react-addons-css-transition-group": "^15.5.2",
     "react-addons-transition-group": "^15.5.2",
